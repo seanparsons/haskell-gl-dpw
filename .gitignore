@@ -1,0 +1,5 @@
+.cabal-sandbox
+cabal.sandbox.config
+dist
+haskell-gl-dpw.sublime-project
+haskell-gl-dpw.sublime-workspace
